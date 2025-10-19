@@ -1,4 +1,4 @@
-# Mal.Mentioned Website (Capstone Project)
+# Kode With Klossy Capstone Project Website
 
 This repository is part of my computer science and engineering learning portfolio.
 
