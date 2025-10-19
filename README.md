@@ -1,35 +1,35 @@
-# Kode With Klossy Capstone Project Website
+# Mal.Mentioned Website — Kode With Klossy Capstone Project
 
-This repository is part of my computer science and engineering learning portfolio.
+This repository is part of my computer science and data-science learning portfolio.
 
-It documents a group capstone project completed during the Kode with Klossy Data Science camp. For this project, I designed and developed the front-end website, integrated MySQL data pulls, and created interactive visualizations using Tableau.
+It contains the code and resources for **Mal.Mentioned**, a capstone website developed during the Kode with Klossy Data Science camp. For this group project, I led the front-end design and worked on connecting back-end data sources and interactive visualizations.
 
 ## Project Overview  
-The website delivers a user-friendly interactive experience presenting data insights and analytics. My contributions included:  
-- Building the website layout and interface (HTML, CSS, JavaScript)  
-- Integrating MySQL database queries to fetch structured data  
-- Using Tableau graphs and embedding them within the website for clear data visualization  
-- Collaborating with teammates on dataset preparation, visualization design, and interface usability  
+Mal.Mentioned is a responsive web experience designed to surface insights from structured data using embedded visualizations. Key features include:
+- A clean and modern interface built with HTML, CSS, and JavaScript.  
+- Integration of MySQL data-pulls to load and prepare structured data for display.  
+- Embedded interactive Tableau graphs that deliver visual storytelling aligned with the dataset.  
+- Collaboration with a team to define data queries, design visuals, and implement the UI for a seamless experience.
 
 ## Technologies Used  
 - Front-end: HTML, CSS, JavaScript  
-- Data layer: MySQL for structured data pulls and query management  
-- Visualization: Tableau charts embedded within web pages  
-- Version control: Git & GitHub for project tracking and collaboration  
+- Data layer: MySQL (structured queries, data normalization)  
+- Visualization: Tableau charts, embedded into web pages  
+- Version control: Git & GitHub to manage code, track contributions, and collaborate  
 
 ## Key Features  
-- Responsive web design for desktop and mobile  
-- Interactive data visualizations that allow insights into underlying datasets  
-- Organized project architecture to separate front-end code, data queries, and visualization embeds  
-- Team-driven workflow using version control, issue tracking, and peer review  
+- Mobile-friendly and responsive layout for optimal viewing on multiple devices  
+- Embedded interactive dashboards (via Tableau) that allow users to explore trends and patterns  
+- Separation of UI, data queries, and visualization assets for maintainable structure  
+- Team-based workflow including branching, peer review, and code integration  
 
 ## Learning Outcomes  
-Through this capstone project I:  
-- Learned how to connect front-end pages with live data sources (MySQL)  
-- Developed an understanding of embedding Tableau visualizations in web environments  
-- Improved collaboration skills in a team setting including data preparation, design decisions, and code review  
-- Reinforced fundamentals of clean code structure, usability, and responsive web design  
+Through this project I:  
+- Connected front-end web development with relational database back-end logic using MySQL  
+- Learned how to embed and control Tableau visualizations within a web environment  
+- Strengthened collaboration, version control, and workflow skills in a multi-person project  
+- Enhanced my ability to design web interfaces that present data clearly, attractively, and responsively  
 
 ---
 
-Feel free to explore the code, view the embedded visualizations, and review how the data flows from the database through the visual interface. I continue to update and refine the site as I deepen my data science and web development skills.
+Feel free to review the code, explore the embedded dashboards, and trace how data flows from the database through visualization to the web interface. I will continue refining this project as my data-science and development skills grow.
