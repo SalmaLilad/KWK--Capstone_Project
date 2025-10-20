@@ -2,7 +2,7 @@
 
 This repository is part of my computer science and data-science learning portfolio.
 
-It contains the code and resources for **Mal.Mentioned**, a capstone website developed during the Kode with Klossy Data Science camp. For this group project, I led the front-end design and worked on connecting back-end data sources and interactive visualizations.
+It contains the code and resources for **Malpractice Mentioned**, a capstone website developed during the Kode with Klossy Data Science camp. For this group project, I led the front-end design and worked on connecting back-end data sources and interactive visualizations.
 
 ## Project Overview  
 Mal.Mentioned is a responsive web experience designed to surface insights from structured data using embedded visualizations. Key features include:
