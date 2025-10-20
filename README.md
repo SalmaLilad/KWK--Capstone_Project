@@ -30,6 +30,8 @@ Through this project I:
 - Strengthened collaboration, version control, and workflow skills in a multi-person project  
 - Enhanced my ability to design web interfaces that present data clearly, attractively, and responsively  
 
+### Project Page
+[Visit the live website](https://salmalilad.github.io/BWSI--Project_Website/)
 ---
 
 Feel free to review the code, explore the embedded dashboards, and trace how data flows from the database through visualization to the web interface. I will continue refining this project as my data-science and development skills grow.
