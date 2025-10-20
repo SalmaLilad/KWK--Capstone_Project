@@ -1,4 +1,4 @@
-# Mal.Mentioned Website — Kode With Klossy Capstone Project
+# Malpractice Mentioned Website — Kode With Klossy Capstone Project
 
 This repository is part of my computer science and data-science learning portfolio.
 
