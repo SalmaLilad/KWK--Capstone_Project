@@ -31,7 +31,7 @@ Through this project I:
 - Enhanced my ability to design web interfaces that present data clearly, attractively, and responsively  
 
 ### Project Page
-[Visit the live website](https://salmalilad.github.io/BWSI--Project_Website/)
+[Visit the live website](https://salmalilad.github.io/KWK--Capstone_Project/)
 ---
 
 Feel free to review the code, explore the embedded dashboards, and trace how data flows from the database through visualization to the web interface. I will continue refining this project as my data-science and development skills grow.
